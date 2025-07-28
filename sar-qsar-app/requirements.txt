@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+rdkit
+scikit-learn
+xgboost
+google-generativeai
+joblib
+requests
+matplotlib
+seaborn
+plotly
+Pillow
+cairocffi
+openai
+altair<5
+Chem
